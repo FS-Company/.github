@@ -1,6 +1,8 @@
 ## Hi there 👋
 We're Fusion Company! FS (Fusion Company) is a subsidary of Mega Utilities Company. 
+
 We've been creating digital products since 2020 at Fusion Company! We hope you enjoy our content. If you wish to connect with us click a link.
+
 [Discord Server](https://discord.gg/k44JHbuTuD)
 <!--
 
